@@ -22,5 +22,5 @@ L’obiettivo del lavoro è duplice:
     File scaricato da https://support.microsoft.com/it-it/office/creare-una-previsione-in-excel-per-windows-22c500da-6da7-45e5-bfdc-60a7062329fd
 
 
-- `python/`
-  - Notebook peR implementazione *da zero* della decomposizione additiva delle serie storiche.
+- `Project_work.ipynb`
+  - Notebook con l'implementazione *da zero* della decomposizione additiva delle serie storiche.
